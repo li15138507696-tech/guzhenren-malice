@@ -1,0 +1,20 @@
+# 构建产物
+build/
+_build/
+out/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# 本地环境
+.gradle/
+.dsh/
+.dsh-plugins/
+.idea/
+.vscode/
+run/
+logs/
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
